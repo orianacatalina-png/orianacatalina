@@ -45,7 +45,7 @@ header{
   align-items:center;
   position:relative;
   z-index:10;
-  margin-top:2rem;
+  margin-top:120px;
 }
 
 .nav a{
@@ -62,6 +62,10 @@ header{
   letter-spacing:6px;
   font-weight:800;
   margin-top:80px;
+}
+.nombre{
+  position:relative;
+  z-index:2;
 }
 
 .marca,
@@ -135,6 +139,7 @@ header{
   height:120px;
   pointer-events:none;
   transform:translate(-17px,-25px);
+    z-index:1;
 }
 
 .tribal{
