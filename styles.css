@@ -87,7 +87,7 @@ header{
   text-decoration:none;
   font-weight:700;
   position:relative;
-  left:1060px;
+  
 }
 
 .marca2{
@@ -331,8 +331,10 @@ header{
   display:flex;
   gap:30px;
   padding:40px;
-  width:max-content;
-  animation:mover 60s linear infinite;
+  width:100%;
+  overflow:hidden;
+}
+#archivo{
   overflow:hidden;
 }
 
