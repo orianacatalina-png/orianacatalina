@@ -283,12 +283,13 @@ header{
 
 }
 
+
 .galeria{
   display:flex;
   gap:30px;
   padding:40px;
-  width:100%;
-  overflow:hidden;
+  width:max-content;
+  animation:mover 40s linear infinite;
 }
 
 #archivo{
@@ -331,10 +332,6 @@ header{
     transform:translateX(-50%);
   }
 
-}
-
-.home nav{
-  margin-top:16rem;
 }
 
 @media (max-width:768px){
