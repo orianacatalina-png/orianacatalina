@@ -71,7 +71,10 @@ header{
   color:rgb(236,152,166);
   text-decoration:none;
   font-weight:700;
-  position:relative;
+
+  position:absolute;
+  right:40px;
+  margin-top:40px;
 }
 
 .marca2{
