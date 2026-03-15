@@ -545,12 +545,10 @@ header{
   transform:translate(-17px,-25px);
 }
 
-
 .tribal{
   width:50%;
-  height:auto;
   display:block;
-  margin:auto;
+  margin:80px auto 40px auto;
 }
 
 .decoracion{
