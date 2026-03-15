@@ -403,6 +403,11 @@ header{
   .about-foto{
     width:100%;
   }
-  
+.footer{
+  text-align:center;
+  padding:40px 0;
+  color:#777;
+  font-size:14px;
+}  
 
 }
