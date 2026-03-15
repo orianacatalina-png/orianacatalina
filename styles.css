@@ -361,3 +361,14 @@ header{
   color:#777;
   font-size:14px;
 }
+#archivo{
+  position:relative;
+  overflow:hidden;
+  padding-bottom:120px;
+}
+
+#contacto{
+  position:relative;
+  text-align:center;
+  padding-top:80px;
+}
