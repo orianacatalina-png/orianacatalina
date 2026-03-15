@@ -32,6 +32,7 @@ p{
 
 .header{
   padding: 3rem 4rem;
+  position:relative;
 }
 
 header{
@@ -74,28 +75,24 @@ header{
 
   position:absolute;
   right:40px;
-  margin-top:40px;
+  bottom:40px;
 }
-
 .marca2{
   font-family:'Cinzel', serif;
   font-size:2.8rem;
   color:rgb(236,152,166);
   text-decoration:none;
-  position:relative;
-  left:2px;
   font-weight:700;
+  margin-top:10px;
 }
-
 .marca3{
   font-family:'Cinzel', serif;
   font-size:2.8rem;
   color:rgb(236,152,166);
   text-decoration:none;
-  position:relative;
-  left:2px;
-  top:-30px;
   font-weight:700;
+  display:block;
+  margin-bottom:30px;
 }
 
 .firma{
